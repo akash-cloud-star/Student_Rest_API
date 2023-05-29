@@ -78,8 +78,8 @@ npm install -g newman-reporter-htmlextra
 - Only Message
 # Newman Report
 
-![Screenshot 2023-05-29 194425](https://github.com/akash-cloud-star/Student_Rest_API/assets/61002722/2f792b79-3e5e-4db8-acd7-60584e0c86e0)
-![Screenshot 2023-05-29 194439](https://github.com/akash-cloud-star/Student_Rest_API/assets/61002722/b911797e-e243-44fe-97cc-655b072da3d1)
-![Screenshot 2023-05-29 194453](https://github.com/akash-cloud-star/Student_Rest_API/assets/61002722/d595ecd7-b2d5-4987-bbe8-f3d86908b5d8)
+![Screenshot 2023-05-29 194425](https://github.com/akash-cloud-star/Student_Rest_API/assets/61002722/332962d3-8291-4eaf-8385-49a1800c66b8)
+![Screenshot 2023-05-29 194439](https://github.com/akash-cloud-star/Student_Rest_API/assets/61002722/2eca098d-0f53-4f75-810a-f99381cc61ac)
+![Screenshot 2023-05-29 194453](https://github.com/akash-cloud-star/Student_Rest_API/assets/61002722/c0eafaf7-5bcf-43aa-abcd-81be02cc9858)
 
 
